@@ -1,4 +1,4 @@
-# famous_quotes
+# Stages of Life
 Write an if-elif-else chain that determines a person’s stage of life. Create an input to get the user's name for a variable fullName. Set a value for the variable age, and then:
 • If the person is less than 2 years old, print a message that the fullName is
 a baby.
